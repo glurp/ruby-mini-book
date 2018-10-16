@@ -1,9 +1,10 @@
 My 'pense-bete' for Ruby lang :)
 
-https://rawgit.com/glurp/ruby-mini-book/master/book.html
+https://glurp.github.io/ruby-mini-book/book.html
 
 TODO  :
 
+* [ ] doc from executable 
 * [ ] More doc for **object** stuf
 * [ ] More doc for **class** stuf
 * [ ] More doc for **metaprogramming** stuf
